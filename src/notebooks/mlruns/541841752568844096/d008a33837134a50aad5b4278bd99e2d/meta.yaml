@@ -1,0 +1,15 @@
+artifact_uri: file:///home/juanvieira/local/mnist/src/notebooks/mlruns/541841752568844096/d008a33837134a50aad5b4278bd99e2d/artifacts
+end_time: 1727463143786
+entry_point_name: ''
+experiment_id: '541841752568844096'
+lifecycle_stage: active
+run_id: d008a33837134a50aad5b4278bd99e2d
+run_name: SGD Clf - 5s
+run_uuid: d008a33837134a50aad5b4278bd99e2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727463067948
+status: 4
+tags: []
+user_id: juanvieira

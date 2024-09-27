@@ -1,0 +1,16 @@
+artifact_uri: file:///home/juanvieira/local/mnist/src/notebooks/mlruns/541841752568844096/e1e3593c57b047ff970f8273629079b3/artifacts
+deleted_time: 1727455517908
+end_time: 1727453958228
+entry_point_name: ''
+experiment_id: '541841752568844096'
+lifecycle_stage: deleted
+run_id: e1e3593c57b047ff970f8273629079b3
+run_name: Train SGD - Digit 5
+run_uuid: e1e3593c57b047ff970f8273629079b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727453944092
+status: 3
+tags: []
+user_id: juanvieira
