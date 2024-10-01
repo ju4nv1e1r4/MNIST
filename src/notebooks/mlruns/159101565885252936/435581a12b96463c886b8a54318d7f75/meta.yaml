@@ -1,0 +1,16 @@
+artifact_uri: file:///home/juanvieira/local/mnist/src/notebooks/mlruns/159101565885252936/435581a12b96463c886b8a54318d7f75/artifacts
+deleted_time: 1727809531900
+end_time: 1727809268262
+entry_point_name: ''
+experiment_id: '159101565885252936'
+lifecycle_stage: deleted
+run_id: 435581a12b96463c886b8a54318d7f75
+run_name: RFClassifier - 5s
+run_uuid: 435581a12b96463c886b8a54318d7f75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727809268254
+status: 4
+tags: []
+user_id: juanvieira

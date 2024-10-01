@@ -1,0 +1,15 @@
+artifact_uri: file:///home/juanvieira/local/mnist/src/notebooks/mlruns/170730274831480269/7acb8c798adb4dc484c63646fa84b9d7/artifacts
+end_time: 1727811197946
+entry_point_name: ''
+experiment_id: '170730274831480269'
+lifecycle_stage: active
+run_id: 7acb8c798adb4dc484c63646fa84b9d7
+run_name: SVC - some_digit
+run_uuid: 7acb8c798adb4dc484c63646fa84b9d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727811034499
+status: 3
+tags: []
+user_id: juanvieira

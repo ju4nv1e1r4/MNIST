@@ -1,0 +1,6 @@
+artifact_location: file:///home/juanvieira/local/mnist/src/notebooks/mlruns/159101565885252936
+creation_time: 1727809155300
+experiment_id: '159101565885252936'
+last_update_time: 1727809155300
+lifecycle_stage: active
+name: RFClassifier

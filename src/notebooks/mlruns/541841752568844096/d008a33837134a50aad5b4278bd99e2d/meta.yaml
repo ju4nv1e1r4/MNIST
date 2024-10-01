@@ -1,8 +1,9 @@
 artifact_uri: file:///home/juanvieira/local/mnist/src/notebooks/mlruns/541841752568844096/d008a33837134a50aad5b4278bd99e2d/artifacts
+deleted_time: 1727465681511
 end_time: 1727463143786
 entry_point_name: ''
 experiment_id: '541841752568844096'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: d008a33837134a50aad5b4278bd99e2d
 run_name: SGD Clf - 5s
 run_uuid: d008a33837134a50aad5b4278bd99e2d
